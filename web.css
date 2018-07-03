@@ -1,0 +1,7 @@
+pre{
+    border-bottom: 1px solid #eee;
+}
+code {
+    font-size: 13px;
+    font-family: Consolas, 'Courier New', Courier, monospace;
+}
