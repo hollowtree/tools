@@ -10,6 +10,5 @@ window.addEventListener('DOMContentLoaded', function () {
         preEl.appendChild(codeEl)
         container.appendChild(preEl)
     })
-    var body = document.documentElement
-    body.insertBefore(container, body.firstChild)
+    document.body.appendChild(container)
 })
